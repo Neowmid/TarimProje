@@ -1,0 +1,17 @@
+# macOS işletim sisteminin gizli dosyası
+.DS_Store
+
+# Node.js bağımlılıkları klasörü
+node_modules/
+
+# NPM hata log dosyası
+npm-debug.log
+
+# Yarn bağımlılık dosyası
+yarn.lock
+
+# npm bağımlılık dosyası
+package-lock.json
+
+# npm shrinkwrap dosyası
+npm-shrinkwrap.json
